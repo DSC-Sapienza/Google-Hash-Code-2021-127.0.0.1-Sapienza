@@ -3,7 +3,7 @@
 
 
 Our naive solution for the Google-Hash-Code-2021.
-During the online qualification we reach the 4075 place at the global position and the 179 place in Italy (our country).
+During the online qualification we reach the 4075 🌎 place at the global position  and the 179 🇮🇹 place in Italy (our country).
 
 ## Usage
 ```sh
