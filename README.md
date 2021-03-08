@@ -5,6 +5,10 @@
 Our naive solution for the Google-Hash-Code-2021.
 During the online qualification we reach the 4075 🌎 place at the global position  and the 179 🇮🇹 place in Italy (our country).
 
+## Main idea
+This solution assigns a 1 second green time to each incoming street in an intersection.
+In this way, no preference is shown to longer car queues than shorter ones.
+
 ## Usage
 ```sh
 python3 main.py
